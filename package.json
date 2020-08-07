@@ -1,0 +1,21 @@
+{
+  "name": "react-native-version-control",
+  "version": "1.0.2",
+  "description": "react native version control",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "react-native",
+    "version-control",
+    "update"
+  ],
+  "author": "ahmethosca",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-cheerio": "^1.0.0-rc.4",
+    "react-native-device-info": "^5.6.3"
+  }
+}
